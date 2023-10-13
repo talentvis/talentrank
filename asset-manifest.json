@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/talentrank/static/css/main.d4ba60bf.css",
-    "main.js": "/talentrank/static/js/main.903ed941.js",
+    "main.js": "/talentrank/static/js/main.9fbcfae6.js",
     "index.html": "/talentrank/index.html",
     "main.d4ba60bf.css.map": "/talentrank/static/css/main.d4ba60bf.css.map",
-    "main.903ed941.js.map": "/talentrank/static/js/main.903ed941.js.map"
+    "main.9fbcfae6.js.map": "/talentrank/static/js/main.9fbcfae6.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ba60bf.css",
-    "static/js/main.903ed941.js"
+    "static/js/main.9fbcfae6.js"
   ]
 }
